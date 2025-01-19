@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coreDotNet\\testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B58F189-35C4-47F2-AD17-08147C8576C4}|testing\\testing.csproj|d:\\coredotnet\\testing\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B58F189-35C4-47F2-AD17-08147C8576C4}|testing\\testing.csproj|solutionrelative:testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coreDotNet\\testing\\testing\\Program.cs",
+              "RelativeDocumentMoniker": "testing\\Program.cs",
+              "ToolTip": "D:\\coreDotNet\\testing\\testing\\Program.cs",
+              "RelativeToolTip": "testing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:12:53.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
